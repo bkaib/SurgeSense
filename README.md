@@ -16,3 +16,5 @@ results (folder): Folder containing the subfolders of all experiments
 gesla.py (package): Contains function provided by GESLA.org to handle the GESLA data.
 
 main (ipynb): The main notebook explaining the model run.
+
+requirements (txt): The python packages needed to run this model
