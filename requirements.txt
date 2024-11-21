@@ -1,0 +1,13 @@
+xarray
+netCDF4
+scipy
+zarr
+bottleneck
+dask
+matplotlib
+cartopy
+seaborn
+nc-time-axis
+numpy
+pandas
+scikit-learn
